@@ -8,6 +8,8 @@
 # Icon must end with two \r
 Icon
 
+prod_setting.py
+local_settings.py
 
 # Thumbnails
 ._*
